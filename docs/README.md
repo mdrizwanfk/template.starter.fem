@@ -1,3 +1,0 @@
-# DOCS
-
-Documentation for projects
